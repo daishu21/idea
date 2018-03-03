@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aaaaaa" />
+        <module name="abc110" />
         <module name="demo1" />
+        <module name="demoAAA" />
         <module name="jsoup" />
         <module name="MongoDBDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aaaaaa" target="1.5" />
+      <module name="abc110" target="1.5" />
       <module name="demo" target="1.8" />
       <module name="demo1" target="1.8" />
+      <module name="demoAAA" target="1.5" />
       <module name="idea" target="1.5" />
       <module name="jeeshop" target="1.5" />
       <module name="jsoup" target="1.5" />

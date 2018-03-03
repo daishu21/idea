@@ -9,6 +9,9 @@
     <module>jeeshop</module>
       <module>MongoDBDemo</module>
       <module>jsoup</module>
+      <module>demoAAA</module>
+      <module>aaaaaa</module>
+      <module>abc110</module>
   </modules>
   <name>idea Maven Webapp</name>
   <url>http://maven.apache.org</url>

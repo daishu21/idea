@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MongoDBDemo/MongoDBDemo.iml" filepath="$PROJECT_DIR$/MongoDBDemo/MongoDBDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaaaaa/aaaaaa.iml" filepath="$PROJECT_DIR$/aaaaaa/aaaaaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abc110/abc110.iml" filepath="$PROJECT_DIR$/abc110/abc110.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1/demo1.iml" filepath="$PROJECT_DIR$/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoAAA/demoAAA.iml" filepath="$PROJECT_DIR$/demoAAA/demoAAA.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea.iml" filepath="$PROJECT_DIR$/idea.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsoup/jsoup.iml" filepath="$PROJECT_DIR$/jsoup/jsoup.iml" />
     </modules>
